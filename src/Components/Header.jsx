@@ -39,7 +39,7 @@ const Header = () => {
                 {date.getMonth()}
             </div>
             <nav className="d-flex ms-4 col-12 col-sm justify-content-center mt-2 imgs">
-                {/* <a href="https://www.instagram.com" className="me-2"><img className="bg-white rounded-pill" src={instagram} alt="not found" /></a> */}
+                 <a href="https://www.instagram.com" className="me-2"><img className="bg-white rounded-pill" src={instagram} alt="not found" /></a>
                 <a href="https://www.twitter.com" className="me-2"><img className="bg-white rounded-pill" src={twitter} alt="not found" /></a>
                 <a href="https://www.whatsapp.com" className="me-2"><img className="bg-white rounded-pill" src={whatsapp} alt="not found" /></a>
                 <a href="https://www.facebook.com" className="me-2"><img className="bg-white rounded-pill" src={facebook} alt="not found" /></a>
