@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/LoginForm/static/css/main.d5de2a70.css",
+    "main.js": "/LoginForm/static/js/main.6c5a6652.js",
+    "static/media/Spinner.gif": "/LoginForm/static/media/Spinner.5b35cef0ce49e2af8525.gif",
+    "static/media/bootstrap.bundle.min.js.map": "/LoginForm/static/media/bootstrap.bundle.min.js.6cf42f5405e43f88e807.map",
+    "static/media/instagram.png": "/LoginForm/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/whatsapp.png": "/LoginForm/static/media/whatsapp.d026940870fb334920b7.png",
+    "static/media/twitter.png": "/LoginForm/static/media/twitter.894988327f8d68209e91.png",
+    "index.html": "/LoginForm/index.html",
+    "main.d5de2a70.css.map": "/LoginForm/static/css/main.d5de2a70.css.map",
+    "main.6c5a6652.js.map": "/LoginForm/static/js/main.6c5a6652.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5de2a70.css",
+    "static/js/main.6c5a6652.js"
+  ]
+}
